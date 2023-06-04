@@ -4,10 +4,12 @@ Using this utility you can easily control the redshift to adjust screen temperat
 
 ##  IMP - Prerequisite ##
 * Make sure that python is installed in your machine.
+* also redshift must be installed .
 ```bash
   sudo apt update
   sudo apt upgrade
   sudo apt install python3
+  sudo apt install redshift
 ```
 ## Installation
 ```bash
